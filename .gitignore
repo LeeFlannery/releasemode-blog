@@ -69,5 +69,9 @@ config.js
 # Coverage reports
 coverage.html
 
-#JetBrains
+# JetBrains
 .idea
+
+# IIS crap
+web.config
+iisnode.yml
